@@ -5,9 +5,9 @@
 [![whatsup](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511984205190?text=Olá%20vim%20pelo%20GitHub%20)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/samueltorres9977?igshid=ZDdkNTZiNTM=)
 
-[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torres-sam&show_icons=true&theme=dracula)]()
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torres-sam&show_icons=true&theme=dracula)](https://github.com/Torres-sam?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torres-sam&layout=compact&theme=dracula)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torres-sam&layout=compact&theme=dracula)](https://github.com/Torres-sam?tab=repositories)
 
 ### Tecnologias que eu uso no meu dia 
 
