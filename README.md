@@ -23,6 +23,6 @@
 
 Apaixonado por Tecnologia, sempre buscando novos conhecimentos e desafios.
 
-![Snake animation](https://github.com/Torres-Sam/Torres-Sam/blob/output/github-contribution-grid-snake.svg)
+
 
 
